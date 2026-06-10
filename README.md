@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://profile-counter.glitch.me/anshsaxenaixt-afk/count.svg" alt="anshsaxenaixt-afk's GitHub activity" />](https://github.com/anshsaxenaixt-afk)
+# Hi there 👋
+
+![GitHub Views](https://komarev.com/ghpvc/?username=anshsaxenaixt-afk&color=0078ff&style=flat-square&label=PROFILE+VIEWS)
